@@ -1,0 +1,26 @@
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\bin\Debug\Notepad App 2.0.exe.manifest
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\bin\Debug\Notepad App 2.0.application
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\bin\Debug\Notepad App 2.0.exe
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\bin\Debug\Notepad App 2.0.pdb
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\bin\Debug\Notepad App 2.0.xml
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.vbproj.GenerateResource.Cache
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.exe.manifest
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.application
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.exe
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.xml
+C:\Users\KALOKI\documents\visual studio 2010\Projects\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.pdb
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.exe
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.xml
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.pdb
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\bin\Debug\Notepad App 2.0.exe.manifest
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\bin\Debug\Notepad App 2.0.application
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\bin\Debug\Notepad App 2.0.exe
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\bin\Debug\Notepad App 2.0.pdb
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\bin\Debug\Notepad App 2.0.xml
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.vbproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.exe.manifest
+C:\Users\VICTOR\Desktop\coursecontent\Thirdyearcontent\courseworkcontent\currentUnits\eventdriven\Notepad App 2.0\obj\x86\Debug\Notepad App 2.0.application
